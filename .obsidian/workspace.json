@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ae9f1c1e83d831",
+        "id": "37e5192262c37ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "b79bfc411fce720f",
+            "id": "0022d3d4f05cd23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "География/Орими Ги.md",
+                "file": "homebrew/Инвентарь.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "зверол",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "География/Орими Ги.md",
+                "file": "homebrew/Инвентарь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "География/Орими Ги.md",
+                "file": "homebrew/Инвентарь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "География/Орими Ги.md"
+                "file": "homebrew/Инвентарь.md"
               }
             }
           }
@@ -147,27 +147,29 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b79bfc411fce720f",
+  "active": "0022d3d4f05cd23d",
   "lastOpenFiles": [
-    "Религия/Сестренка-солнце.md",
-    "Религия/Вторая Церковь.md",
-    "География/Аврора, Старая Земля.md",
-    "География/Океан Ветров.md",
-    "История/Великая Война.md",
-    "География/Орими Ги.md",
-    "Религия/Праматерь.md",
-    "Религия/Отец.md",
-    "Расы/Малые народы.md",
-    "Расы/Люди.md",
-    "Расы/Зверолюди.md",
+    "homebrew/Инвентарь.md",
+    "homebrew",
     "Организации/Экзархат.md",
+    "Расы/Зверолюди.md",
+    "Религия/Вторая Церковь.md",
     "Организации/Ярлы Канатаха.md",
     "Организации/Калисто Кранца.md",
-    "География/Гелиодор.md",
-    "География/Залив Аргент.md",
-    "География/Калистос.md",
-    "География/Канатах.md",
+    "География/Аврора, Старая Земля.md",
+    "Религия/Отец.md",
+    "Религия/Праматерь.md",
+    "Расы/Люди.md",
+    "Расы/Малые народы.md",
+    "География/Орими Ги.md",
+    "География/Океан Ветров.md",
     "География/Новый Предел.md",
+    "Религия/Сестренка-солнце.md",
+    "История/Великая Война.md",
+    "География/Канатах.md",
+    "География/Калистос.md",
+    "География/Залив Аргент.md",
+    "География/Гелиодор.md",
     "Организации",
     "История",
     "Религия",
