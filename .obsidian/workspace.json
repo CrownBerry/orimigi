@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "37e5192262c37ae5",
+        "id": "ea5ad4900cd5d258",
         "type": "tabs",
         "children": [
           {
-            "id": "0022d3d4f05cd23d",
+            "id": "bd641cf7e99341aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "География/Аврора, Старая Земля.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8634016b90442f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Расы/Зверолюди.md",
+                "file": "Расы/Аль-Феях.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "шериф",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Расы/Зверолюди.md",
+                "file": "Расы/Аль-Феях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Расы/Зверолюди.md",
+                "file": "Расы/Аль-Феях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Расы/Зверолюди.md"
+                "file": "Расы/Аль-Феях.md"
               }
             }
           }
@@ -151,36 +138,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obisidian-note-linker:Note Linker": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b8634016b90442f0",
+  "active": "bd641cf7e99341aa",
   "lastOpenFiles": [
-    "География/Орими Ги.md",
-    "Религия/Праматерь.md",
-    "Религия/Отец.md",
-    "Религия/Вторая Церковь.md",
-    "Расы/Люди.md",
-    "Организации/Экзархат.md",
-    "История/Великая Война.md",
-    "География/Новый Предел.md",
-    "География/Океан Ветров.md",
+    "Расы/Малые народы.md",
+    "Расы/Аль-Феях.md",
+    "География/Кеметра.md",
+    "География/Аврора, Старая Земля.md",
+    "География/Залив Аргент.md",
     "География/Гелиодор.md",
+    "Религия/Праматерь.md",
+    "История/Великая Война.md",
+    "География/Орими Ги.md",
+    "Организации/Экзархат.md",
+    "Расы/Зверолюди.md",
+    "Расы/Люди.md",
+    "Организации/Калисто Кранца.md",
+    "География/Океан Ветров.md",
+    "Религия/Вторая Церковь.md",
+    "Религия/Сестренка-солнце.md",
+    "Религия/Церковь Сестры.md",
+    "Религия/Отец.md",
+    "География/Новый Предел.md",
     "География/Калистос.md",
     "Организации/Ярлы Канатаха.md",
-    "География/Залив Аргент.md",
-    "Расы/Малые народы.md",
-    "Расы/Зверолюди.md",
-    "География/Аврора, Старая Земля.md",
-    "Организации/Калисто Кранца.md",
     "География/Канатах.md",
-    "Религия/Сестренка-солнце.md",
     "homebrew/Инвентарь.md",
     "homebrew",
     "Организации",
