@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 929941
       }
+    },
+    {
+      "query": "tag:#расы  ",
+      "color": {
+        "a": 1,
+        "rgb": 14834321
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6892326881888688,
-  "close": false
+  "scale": 1.6609338686658237,
+  "close": true
 }
