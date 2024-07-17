@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Расы/Хафу.md",
+                "file": "Религия/Сестренка-солнце.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рассветн",
+                "query": "атол",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Расы/Хафу.md",
+                "file": "Религия/Сестренка-солнце.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Расы/Хафу.md",
+                "file": "Религия/Сестренка-солнце.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Расы/Хафу.md"
+                "file": "Религия/Сестренка-солнце.md"
               }
             }
           }
@@ -138,43 +138,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "bd641cf7e99341aa",
   "lastOpenFiles": [
-    "Расы/Аль-Феях.md",
-    "Расы/Драконы.md",
-    "История/Великая Война.md",
-    "История/Летоисчисления.md",
-    "Расы/Зверолюди.md",
-    "История/Смерть богов.md",
-    "География/Кеметра.md",
-    "Расы/Малые народы.md",
-    "География/Аврора, Старая Земля.md",
-    "Расы/Хафу.md",
     "Расы/Гауры.md",
-    "Организации/Экзархат.md",
-    "Расы/Люди.md",
-    "Расы/Катаханады.md",
+    "География/Аврора, Старая Земля.md",
     "География/Гелиодор.md",
+    "История/Великая Война.md",
     "Религия/Сестренка-солнце.md",
-    "География/Залив Аргент.md",
-    "География/Канатах.md",
-    "География/Калистос.md",
-    "География/Новый Предел.md",
-    "География/Океан Ветров.md",
+    "История/Летоисчисления.md",
     "География/Орими Ги.md",
-    "Организации/Калисто Кранца.md",
-    "Религия/Праматерь.md",
-    "Религия/Вторая Церковь.md",
+    "География/Океан Ветров.md",
+    "Организации/Экзархат.md",
+    "История/Смерть богов.md",
+    "Расы/Аль-Феях.md",
     "Религия/Церковь Сестры.md",
+    "Расы/Орыс.md",
+    "Расы/Малые народы.md",
+    "География/Канатах.md",
+    "География/Кеметра.md",
+    "География/Новый Предел.md",
+    "Религия/--ВЫЧЕРКНУТО--.md",
+    "Религия/Вторая Церковь.md",
+    "Расы/Люди.md",
+    "Расы/Зверолюди.md",
+    "Расы/Катаханады.md",
+    "Расы/Хафу.md",
+    "Расы/Драконы.md",
+    "География/Залив Аргент.md",
+    "География/Калистос.md",
     "homebrew",
     "Организации",
     "История",
