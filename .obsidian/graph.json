@@ -5,48 +5,48 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#территория  ",
-      "color": {
-        "a": 1,
-        "rgb": 1348363
-      }
-    },
     {
       "query": "tag:#боги  ",
       "color": {
         "a": 1,
-        "rgb": 15265430
-      }
-    },
-    {
-      "query": "tag:#церкви  ",
-      "color": {
-        "a": 1,
-        "rgb": 5761768
-      }
-    },
-    {
-      "query": "tag:#организации  ",
-      "color": {
-        "a": 1,
-        "rgb": 14058793
+        "rgb": 14048348
       }
     },
     {
       "query": "tag:#история  ",
       "color": {
         "a": 1,
-        "rgb": 929941
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#организации  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     },
     {
       "query": "tag:#расы  ",
       "color": {
         "a": 1,
-        "rgb": 14834321
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#территория  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#церкви  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5259271616014045,
-  "close": true
+  "scale": 0.6077504269291634,
+  "close": false
 }
